@@ -1,0 +1,287 @@
+body {
+  background: url(1.jpg);
+  background-size: cover;
+  background-attachment: fixed;
+}
+
+#p1 {
+  color: #eff8b9;
+  margin-right: 45em;
+  font-family: Comic Sans MS;
+  cursor: pointer;
+}
+
+#p2 {
+  color: white;
+  font-family: Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+#p3 {
+  color: white;
+  margin-left: 2em;
+  font-family: Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+#p4 {
+  color: white;
+  margin-left: 2em;
+  font-family: Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+#p5 {
+  color: white;
+  margin-left: 45em;
+  font-family: Helvetica, sans-serif;
+  cursor: pointer;
+}
+
+#f1 {
+  -webkit-box-shadow: inset #abacaf 0 0 0 2px;
+          box-shadow: inset #abacaf 0 0 0 2px;
+  border: 0;
+  background: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 100%;
+  position: relative;
+  border-radius: 8px;
+  padding: 9px 44px;
+  line-height: 1.4;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  height: 40px;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  color: white;
+}
+
+#f1 :hover {
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+}
+
+#f1 :focus {
+  background: #fff;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+}
+
+#f2 {
+  -webkit-box-shadow: inset #abacaf 0 0 0 2px;
+          box-shadow: inset #abacaf 0 0 0 2px;
+  border: 0;
+  background: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 100%;
+  position: relative;
+  border-radius: 8px;
+  padding: 9px 44px;
+  line-height: 1.4;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  height: 40px;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  color: white;
+}
+
+#f2 :hover {
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+}
+
+#f2 :focus {
+  background: #fff;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+}
+
+#f3 {
+  -webkit-box-shadow: inset #abacaf 0 0 0 2px;
+          box-shadow: inset #abacaf 0 0 0 2px;
+  border: 0;
+  background: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 100%;
+  position: relative;
+  border-radius: 8px;
+  padding: 9px 44px;
+  line-height: 1.4;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  height: 40px;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  color: white;
+}
+
+#f3 :hover {
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+}
+
+#f3 :focus {
+  background: #fff;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+}
+
+#f4 {
+  -webkit-box-shadow: inset #abacaf 0 0 0 2px;
+          box-shadow: inset #abacaf 0 0 0 2px;
+  border: 0;
+  background: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 100%;
+  position: relative;
+  border-radius: 8px;
+  padding: 9px 44px;
+  line-height: 1.4;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  height: 40px;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  color: white;
+}
+
+#f4 :hover {
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+}
+
+#f4 :focus {
+  background: #fff;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+}
+
+#f5 {
+  -webkit-box-shadow: inset #abacaf 0 0 0 2px;
+          box-shadow: inset #abacaf 0 0 0 2px;
+  border: 0;
+  background: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 100%;
+  position: relative;
+  border-radius: 8px;
+  padding: 9px 44px;
+  line-height: 1.4;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  height: 40px;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  color: white;
+}
+
+#f5 :hover {
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+}
+
+#f5 :focus {
+  background: #fff;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+}
+
+#f6 {
+  -webkit-box-shadow: inset #abacaf 0 0 0 2px;
+          box-shadow: inset #abacaf 0 0 0 2px;
+  border: 0;
+  background: rgba(0, 0, 0, 0);
+  -webkit-appearance: none;
+     -moz-appearance: none;
+          appearance: none;
+  width: 100%;
+  position: relative;
+  border-radius: 8px;
+  padding: 9px 44px;
+  line-height: 1.4;
+  color: black;
+  font-size: 16px;
+  font-weight: 400;
+  height: 40px;
+  -webkit-transition: all .2s ease;
+  transition: all .2s ease;
+  color: white;
+}
+
+#f6 :hover {
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 2px;
+}
+
+#f6 :focus {
+  background: #fff;
+  outline: 0;
+  -webkit-box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+          box-shadow: 0 0 0 0 #fff inset, #1de9b6 0 0 0 3px;
+}
+
+#na {
+  padding: 7em;
+  border-top: #1de9b6 2em;
+  width: 50em;
+  margin-left: 27em;
+  margin-top: 8em;
+  border: 5px solid #eff8b9;
+  border-radius: 6px;
+}
+
+#p6 {
+  color: white;
+  margin-left: 7.75em;
+  font-family: Arial Black;
+  font-size: 1.5em;
+}
+
+table {
+  margin-left: 14.5em;
+  margin-top: 2em;
+}
+
+#bt {
+  display: inline-block;
+  outline: none;
+  cursor: pointer;
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 600;
+  border-radius: 8px;
+  padding: 13px 23px;
+  border: 1px solid #222222;
+  transition: box-shadow 0.2s ease 0s, -webkit-transform 0.1s ease 0s, transform 0.1s ease 0s;
+  background: #eff8b9;
+  color: #222222;
+  margin-left: 7.25em;
+}
+
+#bt :hover {
+  border-color: #000000;
+  background: #000000;
+}
+/*# sourceMappingURL=focus.css.map */
